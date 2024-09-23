@@ -1,5 +1,4 @@
-# LandLunarL
-# Reinforcement learning algorithms for training an agent to play the game lunar lander
+# lunar-lander: Reinforcement learning algorithms for training an agent to play the game lunar lander
 
 ## Introduction
 
@@ -59,3 +58,10 @@ So overall, while the DQN algorithm on average trains faster and yields better m
 
 In a more thorough study one might want to increase the number of trained agents to see whether our best actor being an actor-critic agent was a random fluctuation. Furthermore, one might want to vary the hyperparameters for training, so as to optimize the number of training episodes for each algorithm.
 
+## References
+
+<a id="ref_1">[1] **Reinforcement Learning: An Introduction**. Richard S. Sutton, Andrew G. Barto. [http://incompleteideas.net/book/the-book.html](http://incompleteideas.net/book/the-book.html).</a>
+
+<a id="ref_2">[2] **Playing Atari with Deep Reinforcement Learning**. Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller. [arXiv:1312.5602](https://arxiv.org/abs/1312.5602).</a>
+
+<a id="ref_3">[3] **Deep Reinforcement Learning with Double Q-learning**. Hado van Hasselt, Arthur Guez, David Silver. [arXiv:1509.06461](https://arxiv.org/abs/1509.06461).</a>
